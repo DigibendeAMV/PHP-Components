@@ -1,0 +1,20 @@
+{
+
+   "name": "Digibende/Digicademy",
+   "description": "PHP component voor het lezen van een DigiCademy Repository",
+   "version": "0.1.0",
+   "type": "library",
+   "readme": "./",
+   "license": "MIT",
+
+   "authors": [
+        {
+            "name": "Rob Demmenie",
+            "email": "rob@amstelveen.digibende.nl",
+            "homepage": "https://digicademy.digibende.nl",
+            "role": "Developer"
+        }
+    ]
+
+
+}
